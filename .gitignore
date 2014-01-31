@@ -2,4 +2,9 @@ gwt-unitCache/
 test-classes/
 war/WEB-INF/classes/
 war/gitlab/
+*.class
 
+# Package Files #
+*.jar
+*.war
+*.ear
