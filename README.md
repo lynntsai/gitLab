@@ -1,4 +1,5 @@
 gitLab
 ======
 
-cpsc 310 assignemtn
+cpsc 310 assignement
+Updating collaborators with john g.
